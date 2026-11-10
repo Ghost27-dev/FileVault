@@ -1,6 +1,6 @@
 # FileVault
 
-A desktop app that hides files and folders behind a password. Cross-platform (Windows/macOS/Linux), with a GUI and a full-featured CLI.
+A desktop app that hides files and folders behind a password. Cross-platform (Windows/macOS/Linux), with a GUI and a full-featured CLI. It requires Python to run
 
 ## Features
 
