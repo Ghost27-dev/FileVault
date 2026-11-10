@@ -1,0 +1,8 @@
+
+## How it works
+
+Hidden items use each OS's native hiding mechanism (file attributes on Windows, `chflags` on macOS, dotfiles on Linux). Passwords are never stored — only a salted PBKDF2 hash, so the password itself can't be recovered from the config file.
+
+## License
+
+_Add a license of your choice (MIT is a common pick for personal tools like this) — GitHub can generate one for you under "Add file" on the repo page._
